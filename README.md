@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Moaz or you can call me OnlyDot ;)
+- 👋 Hi, I’m Moaz or you can call me Dot ;)
 - 👀 I’m interested in everything that is related to software or tehcnology. 
-- 🌱 I’m currently learning 3D moduling, java and Haskell. 
+- 🌱 I’m currently learning 3D moduling, C++ and game development. 
 - 💞️ I’m looking to collaborate on intresing projects. 
 - 📫 How to reach me onlydot0o0@gmail.com
 
